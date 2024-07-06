@@ -1,0 +1,9 @@
+D:\Code\fika-headless-player\CLIENT\obj\x86\Debug\FIKA-HEADLESS-PLAYER.csproj.AssemblyReference.cache
+D:\Code\fika-headless-player\CLIENT\obj\x86\Debug\FIKA-HEADLESS-PLAYER.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\fika-headless-player\CLIENT\obj\x86\Debug\FIKA-HEADLESS-PLAYER.AssemblyInfoInputs.cache
+D:\Code\fika-headless-player\CLIENT\obj\x86\Debug\FIKA-HEADLESS-PLAYER.AssemblyInfo.cs
+D:\Code\fika-headless-player\CLIENT\obj\x86\Debug\FIKA-HEADLESS-PLAYER.csproj.CoreCompileInputs.cache
+D:\Code\fika-headless-player\CLIENT\obj\x86\Debug\FIKA_HEADLESS_PLAYER__0.1.0.dll
+D:\Code\fika-headless-player\CLIENT\obj\x86\Debug\FIKA_HEADLESS_PLAYER__0.1.0.pdb
+D:\Code\fika-headless-player\FIKA_HEADLESS_PLAYER__0.1.0.dll
+D:\Code\fika-headless-player\FIKA_HEADLESS_PLAYER__0.1.0.pdb
